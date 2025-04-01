@@ -12,4 +12,4 @@ CyberSec Scanner es una aplicación de escritorio para Windows 11 que analiza vu
 ## 🚀 Instalación
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/cyber-sec-scanner.git
+   git clone https://github.com/robert-nb/cyber-sec-scanner.git
